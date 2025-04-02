@@ -42,9 +42,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/shoumyo/shoumyo/output/snake.svg" alt="Snake animation" />
-
-###
