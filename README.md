@@ -41,4 +41,4 @@
   </a>
 </div>
 
-###
+<img src="assets/snakeGame.svg">
