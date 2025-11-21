@@ -1,5 +1,24 @@
-<h2 align="left">Hi, my name is Shoumyo Srijito Khisa .<br>I am currently studying Computer Science and Engineering (CSE) at Chittagong University of Engineering Technology (CUET) .<br>This is my official GitHub account.<br>I love to explore.</h2>
+# Hi there, I'm Shoumyo Srijito Khisa! 👋
 
+![CUET](https://img.shields.io/badge/Student-CUET-green)
+![Major](https://img.shields.io/badge/Major-CSE-blue)
+![Location](https://img.shields.io/badge/Location-Bangladesh-red)
+
+Welcome to my official GitHub profile. I am a passionate learner and a student of **Computer Science and Engineering (CSE)** at **Chittagong University of Engineering and Technology (CUET)**.
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 I’m currently pursuing my B.Sc. in **Computer Science & Engineering** at **CUET**.
+- 🔭 I love to **explore** new technologies, algorithms, and complex problem-solving strategies.
+- 🌱 I’m currently focusing on **Data Structures & Algorithms** and competitive programming.
+- ⚽ Aside from coding, I enjoy analyzing sports performance (check out my Football Analyzer project!).
+
+---
+
+
+---
 ###
 
 <div align="center">
